@@ -1,6 +1,8 @@
 [
   "editing-toolbar",
-  "obsidian-git",
   "obsidian-outliner",
-  "obsidian-excalidraw-plugin"
+  "obsidian-excalidraw-plugin",
+  "custom-sort",
+  "table-editor-obsidian",
+  "github-sync"
 ]
