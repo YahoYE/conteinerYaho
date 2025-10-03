@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "История/Боги.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Боги"
+              "title": "README"
             }
           }
         ],
@@ -200,24 +200,25 @@
       "obsidian-excalidraw-plugin:Создать новый чертеж": false,
       "custom-sort:Toggle custom sorting": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "fit:Fit Sync": false
+      "fit:Fit Sync": false,
+      "github-sync:Sync with Remote": false
     }
   },
   "active": "c0344f56eabd21b3",
   "lastOpenFiles": [
+    "Добро пожаловать.md",
+    "README.md",
     "Покупки Техника.md",
-    "История/Славянские боги.md",
     "Pasted image 20251001151907.png",
     "История/Боги.md",
+    "История/Славянские боги.md",
     "История/Русь в 9-11 вв. расцвет, раздробленность.md",
     "Изображения/Pasted image 20251001151907.png",
-    "Добро пожаловать.md",
     "_fit/История.docx",
     "_fit",
     "Изображения",
     "История/Древняя Русь 9-13 вв..md",
     "_fit/README.md",
-    "README.md",
     "История/Возвышение Москвы (1147-1500).md",
     "История/Европа и Азия в средние века. Русь в древности Европа в 9-11 вв..md",
     "История.docx",
