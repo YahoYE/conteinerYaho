@@ -2,7 +2,9 @@
   "editing-toolbar",
   "obsidian-outliner",
   "obsidian-excalidraw-plugin",
-  "custom-sort",
   "table-editor-obsidian",
-  "github-sync"
+  "github-sync",
+  "obsidian-markdown-formatting-assistant-plugin",
+  "easy-typing-obsidian",
+  "obsidian-latex-suite"
 ]
